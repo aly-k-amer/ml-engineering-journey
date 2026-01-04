@@ -19,4 +19,6 @@ Build production-ready NLP systems and freelance as an AI/ML engineer by 2027.
 
 ## Daily Log
 ### Week 1
-- **Day 1**: 4/1/2026 - Chose NLP specialization, set up environment, started Python fundamentals
+ - **Day 1 (Jan 4)**: Set up GitHub, completed text processing basics
+       - Learned: string manipulation, word frequency, text statistics
+       - File: week1_text_processing_basics.py
